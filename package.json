@@ -1,6 +1,7 @@
 {
   "name": "abuu-portfolio",
   "version": "0.1.0",
+  "homepage": "http://198.57.184.154/~abuu/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
